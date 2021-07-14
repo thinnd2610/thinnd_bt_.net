@@ -1,0 +1,13 @@
+G:\ThinND_BaiTap_C#\BaiTap\Bai29\bin\Debug\netcoreapp3.1\Bai29.exe
+G:\ThinND_BaiTap_C#\BaiTap\Bai29\bin\Debug\netcoreapp3.1\Bai29.deps.json
+G:\ThinND_BaiTap_C#\BaiTap\Bai29\bin\Debug\netcoreapp3.1\Bai29.runtimeconfig.json
+G:\ThinND_BaiTap_C#\BaiTap\Bai29\bin\Debug\netcoreapp3.1\Bai29.runtimeconfig.dev.json
+G:\ThinND_BaiTap_C#\BaiTap\Bai29\bin\Debug\netcoreapp3.1\Bai29.dll
+G:\ThinND_BaiTap_C#\BaiTap\Bai29\bin\Debug\netcoreapp3.1\Bai29.pdb
+G:\ThinND_BaiTap_C#\BaiTap\Bai29\obj\Debug\netcoreapp3.1\Bai29.csprojAssemblyReference.cache
+G:\ThinND_BaiTap_C#\BaiTap\Bai29\obj\Debug\netcoreapp3.1\Bai29.AssemblyInfoInputs.cache
+G:\ThinND_BaiTap_C#\BaiTap\Bai29\obj\Debug\netcoreapp3.1\Bai29.AssemblyInfo.cs
+G:\ThinND_BaiTap_C#\BaiTap\Bai29\obj\Debug\netcoreapp3.1\Bai29.csproj.CoreCompileInputs.cache
+G:\ThinND_BaiTap_C#\BaiTap\Bai29\obj\Debug\netcoreapp3.1\Bai29.dll
+G:\ThinND_BaiTap_C#\BaiTap\Bai29\obj\Debug\netcoreapp3.1\Bai29.pdb
+G:\ThinND_BaiTap_C#\BaiTap\Bai29\obj\Debug\netcoreapp3.1\Bai29.genruntimeconfig.cache

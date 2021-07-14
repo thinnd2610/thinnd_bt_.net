@@ -1,0 +1,4 @@
+G:\ThinND_BaiTap_C#\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.csprojAssemblyReference.cache
+G:\ThinND_BaiTap_C#\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.AssemblyInfoInputs.cache
+G:\ThinND_BaiTap_C#\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.AssemblyInfo.cs
+G:\ThinND_BaiTap_C#\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.csproj.CoreCompileInputs.cache

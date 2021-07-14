@@ -1,0 +1,12 @@
+G:\ThinND_BaiTap_C#\BaiTap\Bai20\bin\Debug\netcoreapp3.1\Bai20.exe
+G:\ThinND_BaiTap_C#\BaiTap\Bai20\bin\Debug\netcoreapp3.1\Bai20.deps.json
+G:\ThinND_BaiTap_C#\BaiTap\Bai20\bin\Debug\netcoreapp3.1\Bai20.runtimeconfig.json
+G:\ThinND_BaiTap_C#\BaiTap\Bai20\bin\Debug\netcoreapp3.1\Bai20.runtimeconfig.dev.json
+G:\ThinND_BaiTap_C#\BaiTap\Bai20\bin\Debug\netcoreapp3.1\Bai20.dll
+G:\ThinND_BaiTap_C#\BaiTap\Bai20\bin\Debug\netcoreapp3.1\Bai20.pdb
+G:\ThinND_BaiTap_C#\BaiTap\Bai20\obj\Debug\netcoreapp3.1\Bai20.AssemblyInfoInputs.cache
+G:\ThinND_BaiTap_C#\BaiTap\Bai20\obj\Debug\netcoreapp3.1\Bai20.AssemblyInfo.cs
+G:\ThinND_BaiTap_C#\BaiTap\Bai20\obj\Debug\netcoreapp3.1\Bai20.csproj.CoreCompileInputs.cache
+G:\ThinND_BaiTap_C#\BaiTap\Bai20\obj\Debug\netcoreapp3.1\Bai20.dll
+G:\ThinND_BaiTap_C#\BaiTap\Bai20\obj\Debug\netcoreapp3.1\Bai20.pdb
+G:\ThinND_BaiTap_C#\BaiTap\Bai20\obj\Debug\netcoreapp3.1\Bai20.genruntimeconfig.cache
